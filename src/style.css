@@ -1,0 +1,8 @@
+.items:hover{
+    cursor: pointer;
+}
+
+.items{
+    margin-bottom: 2%;
+    width: 25%;
+}
