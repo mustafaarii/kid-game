@@ -117,7 +117,6 @@ export default class LevelTwo extends Component {
                     <div className="header-top">
                         <Header />
                         <section className="slider_section">
-                            {/** KODLAR BURAYA */}
                             <center>
                                 <div className="alert alert-info" role="alert" style={{ width: "70%" }}>
                                     <center>Aşağıdaki sayılardan aynı olanlara tıklayabilir misin ? </center>
